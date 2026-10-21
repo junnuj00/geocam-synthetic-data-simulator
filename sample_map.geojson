@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "origin_lonlat": [
+      127.032,
+      37.498
+    ],
+    "description": "Synthetic demonstration geometry: not real buildings."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main_Road",
+        "kind": "road",
+        "width_m": 9
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.031444566,
+            37.497874095
+          ],
+          [
+            127.032555434,
+            37.497874095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building_A",
+        "kind": "building",
+        "height_m": 18
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.03158059,
+              37.49801349
+            ],
+            [
+              127.031761957,
+              37.49801349
+            ],
+            [
+              127.031761957,
+              37.498202347
+            ],
+            [
+              127.03158059,
+              37.498202347
+            ],
+            [
+              127.03158059,
+              37.49801349
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building_B",
+        "kind": "building",
+        "height_m": 28
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.031875311,
+              37.498089932
+            ],
+            [
+              127.032079348,
+              37.498089932
+            ],
+            [
+              127.032079348,
+              37.498233824
+            ],
+            [
+              127.031875311,
+              37.498233824
+            ],
+            [
+              127.031875311,
+              37.498089932
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building_C",
+        "kind": "building",
+        "height_m": 14
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.032238043,
+              37.497968524
+            ],
+            [
+              127.03241941,
+              37.497968524
+            ],
+            [
+              127.03241941,
+              37.498175368
+            ],
+            [
+              127.032238043,
+              37.498175368
+            ],
+            [
+              127.032238043,
+              37.497968524
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
